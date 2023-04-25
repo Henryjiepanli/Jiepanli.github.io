@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Homepage of JiepanLi/李杰潘"
+title: "Welcome to the Homepage of Jiepan Li/李杰潘"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
