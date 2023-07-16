@@ -12,12 +12,13 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 Publications
 ======
-1. 《Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation》
-Introduction: The current decoders are designed for specific objects based on the common backbones as
+#1. 《Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation》
+#Introduction: The current decoders are designed for specific objects based on the common backbones as
 the encoders, but cannot deal with complex backgrounds. Inspired by the way human eyes detect objects of interest, a new unified
 dual-branch decoder paradigm named the difference-aware decoder is proposed in this paper to explore the difference between the
 foreground and the background and separate the objects of interest in optical images.
-Key words: Binary segmentation, salient object detection, camouflaged object detection, polyp segmentation,
+
+#Key words: Binary segmentation, salient object detection, camouflaged object detection, polyp segmentation,
 mirror detection
 Paper Status： Submitted to TPAMI (Under Revision)
 [Paper link](https://arxiv.org/abs/2210.15156), [Code link](https://github.com/Henryjiepanli/DAD)
